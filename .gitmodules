@@ -1,0 +1,9 @@
+[submodule "Compiler"]
+	path = Compiler
+	url = https://github.com/NexusTools/JVM.JS-Compiler.git
+[submodule "Runtime/JS"]
+	path = Runtime/JS
+	url = https://github.com/NexusTools/JVM.JS-JSRuntime.git
+[submodule "Runtime/Java"]
+	path = Runtime/Java
+	url = https://github.com/NexusTools/JVM.JS-JavaRuntime.git
