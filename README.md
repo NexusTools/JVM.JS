@@ -1,5 +1,6 @@
-JVM.JS
-------
+[![LGPLv3](https://img.shields.io/badge/license-LGPLv3-blue.svg)](https://www.gnu.org/licenses/lgpl.html) [![GPLv2+CE](https://img.shields.io/badge/license-GPLV2+CE-red.svg)](http://openjdk.java.net/legal/gplv2+ce.html) [![Gratipay Tips](https://img.shields.io/gratipay/NexusTools.svg)](https://gratipay.com/NexusTools/)
+
+# JVM.JS
 A Java to JavaScript compiler and runtime for the web, and soon NodeJS.
 
  - Access to JavaScript is provided either by the JSObjectRef bridge classes, or by implementing native methods with a .native.js counterpart that is loaded at runtime.
